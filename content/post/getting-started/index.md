@@ -74,7 +74,7 @@ tags:
 
 ![jpg](популярность.jpg)
 
-[Источник.] (https://survey.stackoverflow.co/2018#work-_-version-control)
+[Источник](https://survey.stackoverflow.co/2018#work-_-version-control)
 
 [Git — это программа, которую нужно установить и подключить к проекту для управления системой контроля версий.](https://skillbox.ru/media/code/chto_takoe_git_obyasnyaem_na_skhemakh/) Git, в общем-то, не связан напрямую с Github, Github — это онлайн-хранилище историй версий проектов. Вместо Github можно использовать любое другое хранилище. 
 
