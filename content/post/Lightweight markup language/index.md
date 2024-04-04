@@ -1,5 +1,5 @@
 ---
-title: Легковесные языки разметки.
+title: Легковесные языки разметки
 subtitle: Что это такое и как применяется.
 
 # Summary for listings and search engines
