@@ -3,10 +3,10 @@ title: Прошедшая неделя
 subtitle: Как прошла неделя с 25 по 31 марта
 
 # Date published
-date: '2024-03-11T00:00:00Z'
+date: '2024-04-4T00:00:00Z'
 
 # Date updated
-lastmod: '2024-03-11T00:00:00Z'
+lastmod: '2024-04-4T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
