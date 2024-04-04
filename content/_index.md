@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: apo
           location: Moscow
-          date_start: '2020-10-1'
+          date_start: '2020-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
