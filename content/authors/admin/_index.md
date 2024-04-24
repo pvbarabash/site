@@ -68,19 +68,19 @@ skills:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 academic:
   - icon: orcid
-    icon_pack: ai
+    icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0009-0006-9680-5998
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fas
     link: https: https://scholar.google.com/citations?view_op=new_profile&hl=ru
   - icon: mendeley
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.mendeley.com/search/
   - icon: github
     icon_pack: fab
     link: https://github.com/pvbarabash
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.researchgate.net/signup.SignUpPublications.html
 
 # Highlight the author in author lists? (true/false)
