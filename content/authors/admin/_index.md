@@ -66,25 +66,25 @@ skills:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-academic:
+social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/my-orcid?orcid=0009-0006-9680-5998
+    link: '/#contact'
   - icon: graduation-cap
     icon_pack: fas
-    link: https: https://scholar.google.com/citations?view_op=new_profile&hl=ru
+    link: https://scholar.google.com/citations?view_op=new_profile&hl=ru
+  - icon: orcid
+    icon_pack: fab
+    link:  https://orcid.org/my-orcid?orcid=0009-0006-9680-5998
   - icon: mendeley
     icon_pack: fab
     link: https://www.mendeley.com/search/
+  - icon: autoprefixer
+    icon_pack: fab
+    link:  https://independent.academia.edu/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%D0%91%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%88
   - icon: github
     icon_pack: fab
     link: https://github.com/pvbarabash
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/signup.SignUpPublications.html
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
