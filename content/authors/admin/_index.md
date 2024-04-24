@@ -67,10 +67,13 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 academic:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0009-0006-9680-5998
-  - icon: google-scholar
+  - icon: graduation-cap
     icon_pack: fas
     link: https: https://scholar.google.com/citations?view_op=new_profile&hl=ru
   - icon: mendeley
