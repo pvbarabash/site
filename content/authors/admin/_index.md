@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor of Computer Science, 2023-2027
+    - course: Bachelor of Computer Science, 2023-2028
       institution: Peoples' Friendship University of Russia (RUDN University)
     - course: Bachelor of Fundamental and Applied Linguistics, 2020-2023
       institution: MSU
